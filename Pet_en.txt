@@ -1,0 +1,10 @@
+0		0	0
+1	Emerald Carbuncle	1012	0
+2	Topaz Carbuncle	1011	0
+3	Ifrit-Egi	1013	0
+4	Titan-Egi	1014	0
+5	Garuda-Egi	1015	0
+6	Eos	1008	0
+7	Selene	1009	0
+8	Rook Autoturret	3256	1
+9	Bishop Autoturret	3257	1

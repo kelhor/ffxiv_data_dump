@@ -1,0 +1,266 @@
+0			0
+1	der Uners\xc3\xa4ttliche	die Uners\xc3\xa4ttliche	0
+2	der Aufrichtige	die Aufrichtige	0
+3	Coeurlfaust	Coeurlfaust	1
+4	Eisenfresser	Eisenfresser	1
+5	vom rachs\xc3\xbcchtigen Speer	vom rachs\xc3\xbcchtigen Speer	0
+6	G\xc3\xb6tterbogen	G\xc3\xb6tterbogen	1
+7	der Wei\xc3\x9fe	die Wei\xc3\x9fe	0
+8	Sternenrufer	Sternenrufer	1
+9	der Blutd\xc3\xbcrstige	die Blutd\xc3\xbcrstige	0
+10	Notorischer Kopfgeldj\xc3\xa4ger	Notorische Kopfgeldj\xc3\xa4gerin	1
+11	Ehrenhafter Gillion\xc3\xa4r	Ehrenhafte Gillion\xc3\xa4rin	1
+12	Ruchloser Gillion\xc3\xa4r	Ruchlose Gillion\xc3\xa4rin	1
+13	Kriegstreiber	Kriegstreiberin	1
+14	Erzmagier	Erzmagierin	1
+15	Erbauer des Reichs	Erbauerin des Reichs	1
+16	Erzeuger des Reichs	Erzeugerin des Reichs	1
+17	von der goldenen S\xc3\xa4ge	von der goldenen S\xc3\xa4ge	0
+18	vom goldenen Amboss	vom goldenen Amboss	0
+19	vom goldenen Hammer	vom goldenen Hammer	0
+20	vom goldenen Blatt	vom goldenen Blatt	0
+21	vom goldenen Fell	vom goldenen Fell	0
+22	von der goldenen Nadel	von der goldenen Nadel	0
+23	vom goldenen Blei	vom goldenen Blei	0
+24	von der goldenen Kelle	von der goldenen Kelle	0
+25	der die Wiesen gr\xc3\xa4bt	die die Wiesen gr\xc3\xa4bt	0
+26	der die W\xc3\xa4lder gr\xc3\xa4bt	die die W\xc3\xa4lder gr\xc3\xa4bt	0
+27	der die W\xc3\xbcsten gr\xc3\xa4bt	die die W\xc3\xbcsten gr\xc3\xa4bt	0
+28	vom Auenstein	vom Auenstein	0
+29	vom Tannenstein	vom Tannenstein	0
+30	vom Steppenstein	vom Steppenstein	0
+31	der die Wiesen rodet	die die Wiesen rodet	0
+32	der die W\xc3\xa4lder rodet	die die W\xc3\xa4lder rodet	0
+33	der die W\xc3\xbcsten rodet	die die W\xc3\xbcsten rodet	0
+34	vom Auengras	vom Auengras	0
+35	vom Tannengras	vom Tannengras	0
+36	vom Steppengras	vom Steppengras	0
+37	der die Wiesen einholt	die die Wiesen einholt	0
+38	der die W\xc3\xa4lder einholt	die die W\xc3\xa4lder einholt	0
+39	der die W\xc3\xbcsten einholt	die die W\xc3\xbcsten einholt	0
+40	vom Auenteich	vom Auenteich	0
+41	vom Tannenteich	vom Tannenteich	0
+42	vom Steppenteich	vom Steppenteich	0
+43	Virtuoser Materialist	Virtuoser Materialist	1
+44	Materia-Maestro	Materia-Maestro	1
+45	K\xc3\xa4mpferseele	K\xc3\xa4mpferseele	1
+46	Magierseele	Magierseele	1
+47	Handwerkerseele	Handwerkerseele	1
+48	Sammlerseele	Sammlerseele	1
+49	die helfende Hand	die helfende Hand	0
+50	S\xc3\xb6ldnerveteran	S\xc3\xb6ldnerveteranin	1
+51	Meister seiner Zunft	Meisterin ihrer Zunft	1
+52	Bewahrer des Friedens	Bewahrerin des Friedens	1
+53	Verbissener Verfolger	Verbissene Verfolgerin	1
+54	das Schwert von La Noscea	das Schwert von La Noscea	0
+55	das Schwert des Finsterwalds	das Schwert des Finsterwalds	0
+56	das Schwert von Thanalan	das Schwert von Thanalan	0
+57	das Schwert Eorzeas	das Schwert Eorzeas	0
+58	der Schild von La Noscea	der Schild von La Noscea	0
+59	der Schild des Finsterwalds	der Schild des Finsterwalds	0
+60	der Schild von Thanalan	der Schild von Thanalan	0
+61	der Schild Eorzeas	der Schild Eorzeas	0
+62	der Klingenbrecher	die Klingenbrecherin	0
+63	das Ass Azeymas	das Ass Azeymas	0
+64	der Ruhmreiche	die Ruhmreiche	0
+65	die H\xc3\xa4rte des Gesetzes	die H\xc3\xa4rte des Gesetzes	0
+66	Der Profi	Der Profi	1
+67	Inquisitor	Inquisitor	1
+68	G\xc3\xb6ttlicher Scharfrichter	G\xc3\xb6ttlicher Scharfrichter	1
+69	Steinspalter	Steinspalter	1
+70	des Kobolds schlimmster Albtraum	des Kobolds schlimmster Albtraum	0
+71	des Ixals schlimmster Albtraum	des Ixals schlimmster Albtraum	0
+72	des Amalj'aas schlimmster Albtraum	des Amalj'aas schlimmster Albtraum	0
+73	der W\xc3\xa4chter des Bierhafens	die W\xc3\xa4chterin des Bierhafens	0
+74	der W\xc3\xa4chter des M\xc3\xbchlenhains	die W\xc3\xa4chterin des M\xc3\xbchlenhains	0
+75	der W\xc3\xa4chter des Goldbasars	die W\xc3\xa4chterin des Goldbasars	0
+76	der frische Wind des Bierhafens	der frische Wind des Bierhafens	0
+77	der frische Wind des M\xc3\xbchlenhains	der frische Wind des M\xc3\xbchlenhains	0
+78	der frische Wind des Goldbasars	der frische Wind des Goldbasars	0
+79	die helfende Hand des Bierhafens	die helfende Hand des Bierhafens	0
+80	die helfende Hand des M\xc3\xbchlenhains	die helfende Hand des M\xc3\xbchlenhains	0
+81	die helfende Hand des Goldbasars	die helfende Hand des Goldbasars	0
+82	Schneemann	Schneefrau	1
+83	Winterdrache	Winterdrache	1
+84	Herzensbrecher	Herzensbrecher	1
+85	K\xc3\xb6niglicher Seneschall	K\xc3\xb6niglicher Seneschall	1
+86	Eiert\xc3\xa4nzer	Eiert\xc3\xa4nzerin	1
+87	Honorabler Kaskadeur	Honorabler Kaskadeur	1
+88	Tr\xc3\xa4ger des Kristalls	Tr\xc3\xa4gerin des Kristalls	1
+89	Sturmf\xc3\xbcrst	Sturmf\xc3\xbcrstin	1
+90	Schlangenf\xc3\xbcrst	Schlangenf\xc3\xbcrstin	1
+91	Ph\xc3\xb6nixf\xc3\xbcrst	Ph\xc3\xb6nixf\xc3\xbcrstin	1
+92	der R\xc3\xbcckhalt Limsas	der R\xc3\xbcckhalt Limsas	0
+93	der R\xc3\xbcckhalt Gridanias	der R\xc3\xbcckhalt Gridanias	0
+94	der R\xc3\xbcckhalt Ul'dahs	der R\xc3\xbcckhalt Ul'dahs	0
+95	Merlwybs Bote	Merlwybs Botin	1
+96	Kan-E-Sennas Bote	Kan-E-Sennas Botin	1
+97	Raubahns Bote	Raubahns Botin	1
+98	der Versorger Limsas	die Versorgerin Limsas	0
+99	der Versorger Gridanias	die Versorgerin Gridanias	0
+100	der Versorger Ul'dahs	die Versorgerin Ul'dahs	0
+101	Expresszusteller	Expresszustellerin	1
+102	Eskorteur	Eskorteurin	1
+103	Ge\xc3\xb6lter Blitz	Ge\xc3\xb6lter Blitz	1
+104	Chocobo-Ritter	Chocobo-Ritter	1
+105	Des Wanderers Schatten	Des Wanderers Schatten	1
+106	Gr\xc3\xbcnauge	Gr\xc3\xbcnauge	1
+107	der Stratege	die Strategin	0
+108	der Schnitter	die Schnitterin	0
+109	der Dungeon-Entdecker	die Dungeon-Entdeckerin	0
+110	der Schicksalsversucher	die Schicksalsversucherin	0
+111	Elite-Kaskadeur	Elite-Kaskadeurin	1
+112	Mahlstrom-Welpe	Mahlstrom-Welpe	1
+113	Mahlstrom-Winsler	Mahlstrom-Winslerin	1
+114	Mahlstrom-Knurrer	Mahlstrom-Knurrerin	1
+115	Mahlstrom-Heuler	Mahlstrom-Heulerin	1
+116	Mahlstrom-Pirscher	Mahlstrom-Pirscherin	1
+117	Mahlstrom-Hetzer	Mahlstrom-Hetzerin	1
+118			0
+119			0
+120			0
+121			0
+122	Ordens-Welpe	Ordens-Welpe	1
+123	Ordens-Winsler	Ordens-Winslerin	1
+124	Ordens-Knurrer	Ordens-Knurrerin	1
+125	Ordens-Heuler	Ordens-Heulerin	1
+126	Ordens-Pirscher	Ordens-Pirscherin	1
+127	Ordens-Hetzer	Ordens-Hetzerin	1
+128			0
+129			0
+130			0
+131			0
+132	Legions-Welpe	Legions-Welpe	1
+133	Legions-Winsler	Legions-Winslerin	1
+134	Legions-Knurrer	Legions-Knurrerin	1
+135	Legions-Heuler	Legions-Heulerin	1
+136	Legions-Pirscher	Legions-Pirscherin	1
+137	Legions-Hetzer	Legions-Hetzerin	1
+138			0
+139			0
+140			0
+141			0
+142	der Gro\xc3\x9fe B\xc3\xb6se Wolf	die Gro\xc3\x9fe B\xc3\xb6se W\xc3\xb6lfin	0
+143	der Alpha-Wolf	die Alpha-W\xc3\xb6lfin	0
+144	die Seele des Rudels	die Seele des Rudels	0
+145	Bruder der Asche	Schwester der Asche	1
+146	Sylphen-Freund	Sylphen-Freundin	1
+147	Schatzj\xc3\xa4ger	Schatzj\xc3\xa4gerin	1
+148	Vorzeigekobold des 789. Ordens	Vorzeigekobold des 789. Ordens	1
+149	Novvs Laichw\xc3\xa4chter	Novvs Laichw\xc3\xa4chterin	1
+150	der ambitionierte Angler	die ambitionierte Anglerin	0
+151	der lebende Schild	der lebende Schild	0
+152	die lebende Axt	die lebende Axt	0
+153	der tapfere Schild	der tapfere Schild	0
+154	die tapfere Axt	die tapfere Axt	0
+155	Frontk\xc3\xa4mpfer	Frontk\xc3\xa4mpferin	1
+156	Mahlstrom-Frontk\xc3\xa4mpfer	Mahlstrom-Frontk\xc3\xa4mpferin	1
+157	Legion-Frontk\xc3\xa4mpfer	Legion-Frontk\xc3\xa4mpferin	1
+158	Bruderschaft-Frontk\xc3\xa4mpfer	Bruderschaft-Frontk\xc3\xa4mpferin	1
+159	Drohnenj\xc3\xa4ger	Drohnenj\xc3\xa4gerin	1
+160	der Held des Heliodroms	die Heldin des Heliodroms	0
+161	Monsterj\xc3\xa4ger	Monsterj\xc3\xa4gerin	1
+162	Gl\xc3\xbcckssucher	Gl\xc3\xbcckssucherin	1
+163	Spurensucher	Spurensucherin	1
+164	Kopfgeldj\xc3\xa4ger	Kopfgeldj\xc3\xa4gerin	1
+165	Gl\xc3\xbccksritter	Gl\xc3\xbccksritterin	1
+166	Jagdaufseher	Jagdaufseherin	1
+167	Rafflesia-Richter	Rafflesia-Richterin	1
+168	Melusine-M\xc3\xa4her	Melusine-M\xc3\xa4herin	1
+169	Avatar	Avatar	1
+170	Domitor	Domitrix	1
+171	der Demontierer	die Demontiererin	0
+172			0
+173	der Kistentr\xc3\xa4ger	die Kistentr\xc3\xa4gerin	0
+174	der Bewahrer Eorzeas	die Bewahrerin Eorzeas	0
+175	Postbote	Postbotin	1
+176	\xc3\x9cberflieger	\xc3\x9cberfliegerin	1
+177	der Verhandlungsk\xc3\xbcnstler	die Verhandlungsk\xc3\xbcnstlerin	0
+178	der letzte Zeuge	die letzte Zeugin	0
+179	der Seedrachenbezwinger	die Seedrachenbezwingerin	0
+180	Kapitalist	Kapitalistin	1
+181			0
+182	der Schatten	der Schatten	0
+183	Eisbrecher	Eisbrecher	1
+184	Erleuchter der Dunkelheit	Erleuchterin der Dunkelheit	1
+185	Chevalier cum laude	Chevali\xc3\xa8re cum laude	1
+186	Liebeshelfer	Liebeshelferin	1
+187	Rossz\xc3\xa4hmer	Rossz\xc3\xa4hmerin	1
+188	der Unber\xc3\xbchrte	die Unber\xc3\xbchrte	0
+189	der Schl\xc3\xa4chter	die Schl\xc3\xa4chterin	0
+190	die barmherzige Hand	die barmherzige Hand	0
+191	Lichttr\xc3\xa4ger	Lichttr\xc3\xa4gerin	1
+192	der Erleuchtete	die Erleuchtete	0
+193	Sternenschmied	Sternenschmiedin	1
+194	der Puppenspieler	die Puppenspielerin	0
+195	der Spieler	die Spielerin	0
+196	Gl\xc3\xbcckspilz	Gl\xc3\xbcckspilz	1
+197	Chocobo-Z\xc3\xbcchter	Chocobo-Z\xc3\xbcchterin	1
+198	Chocobo-Trainer	Chocobo-Trainerin	1
+199	Stalljunge	Stallm\xc3\xa4dchen	1
+200	Profi-Jockey	Profi-Jockey	1
+201	Jockey-Veteran	Jockey-Veteranin	1
+202	der schnellste Mann von Thanalan	die schnellste Frau von Thanalan	0
+203	Stolzer Kartenbesitzer	Stolze Kartenbesitzerin	1
+204	der Kartenk\xc3\xb6nig	die Kartenk\xc3\xb6nigin	0
+205	Seine Dreifaltigkeit	Ihre Dreifaltigkeit	1
+206	der Duellant	die Duellantin	0
+207	der Schicksalsergebene	die Schicksalsergebene	0
+208	der Sturmfeste	die Sturmfeste	0
+209	Magnat	Magnatin	1
+210	Emsiger Sparer	Emsige Sparerin	1
+211	Licht der Hoffnung	Licht der Hoffnung	1
+212	Postmeister	Postmeisterin	1
+213	Eierlegende	Eierlegende	1
+214	Ungl\xc3\xa4ubiger	Ungl\xc3\xa4ubige	1
+215	der Freigesprochene	die Freigesprochene	0
+216	Nidhogg-Bezwinger	Nidhogg-Bezwingerin	1
+217	Silberklinge	Silberklinge	0
+218	die Gei\xc3\x9fel der Garlear	die Gei\xc3\x9fel der Garlear	0
+219	Jungexeget	Jungexegetin	1
+220	Askalons Ende	Askalons Ende	1
+221	der Friedensbringer	die Friedensbringerin	0
+222	der Tr\xc3\xa4ger der Eidklinge	die Tr\xc3\xa4gerin der Eidklinge	0
+223	\xc3\x96ffner der 14 Chakren	\xc3\x96ffnerin der 14 Chakren	1
+224	Mithrilherz	Mithrilherz	1
+225	Azur-Drachenreiter	Azur-Drachenreiterin	1
+226	Wolkens\xc3\xa4nger	Wolkens\xc3\xa4ngerin	1
+227	der Bes\xc3\xa4nftiger	die Bes\xc3\xa4nftigerin	0
+228	der Vernichter	die Vernichterin	0
+229	Herr der Trance	Herrin der Trance	1
+230	Seesoldat	Seesoldatin	1
+231	der dunkelste Schatten	der dunkelste Schatten	0
+232	Schwarzblut	Schwarzblut	1
+233	der Erl\xc3\xb6ser	die Erl\xc3\xb6serin	0
+234	Sternengucker	Sternenguckerin	1
+235	Indigodrescher	Indigodrescherin	1
+236	Finder falscher G\xc3\xb6tter	Finderin falscher G\xc3\xb6tter	1
+237	Luftikus	Luftikus	1
+238			0
+239	der Gro\xc3\x9fmeister des Krieges	die Gro\xc3\x9fmeisterin des Krieges	0
+240	der Gro\xc3\x9fmeister der Magie	die Gro\xc3\x9fmeisterin der Magie	0
+241	die dunkle Bastion	die dunkle Bastion	0
+242	die unersch\xc3\xbctterliche Klinge	die unersch\xc3\xbctterliche Klinge	0
+243	der H\xc3\xbcter des Wissens	die H\xc3\xbcterin des Wissens	0
+244			0
+245	Mahlstrominformant	Mahlstrominformantin	1
+246	Bruderschaftsinformant	Bruderschaftsinformantin	1
+247	Legionsinformant	Legionsinformantin	1
+248	der Gro\xc3\x9fmeister des Handwerks	die Gro\xc3\x9fmeisterin des Handwerks	0
+249	der Gro\xc3\x9fmeister des Sammelns	die Gro\xc3\x9fmeisterin des Sammelns	0
+250	Sch\xc3\xb6pfer der Meisterwerke	Sch\xc3\xb6pferin der Meisterwerke	1
+251	H\xc3\xbcter der Meisterwerke	H\xc3\xbcterin der Meisterwerke	1
+252	Gesch\xc3\xa4ftspartner	Gesch\xc3\xa4ftspartnerin	1
+253	Meisterzimmerer	Meisterzimmerin	1
+254	Meistergrobschmied	Meistergrobschmiedin	1
+255	Meisterplattner	Meisterplattnerin	1
+256	Meistergoldschmied	Meistergoldschmiedin	1
+257	Meistergerber	Meistergerberin	1
+258	Meisterweber	Meisterweberin	1
+259	Meisteralchemist	Meisteralchemistin	1
+260	Meistergourmet	Meistergourmet	1
+261	Meisterminenarbeiter	Meisterminenarbeiterin	1
+262	Meisterg\xc3\xa4rtner	Meisterg\xc3\xa4rtnerin	1
+263	Meisterfischer	Meisterfischerin	1
+264	der Gl\xc3\xbcckliche	die Gl\xc3\xbcckliche	0
+265	der barmherzige Samariter	die barmherzige Samariterin	0

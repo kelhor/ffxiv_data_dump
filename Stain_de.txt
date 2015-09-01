@@ -1,0 +1,121 @@
+0		0	5728	2	2
+1	Schneewei\xc3\x9f	14999504	5729	2	2
+2	Aschgrau	11315362	5730	2	2
+3	Goobbuegrau	9013124	5731	2	2
+4	Schiefergrau	6645093	5732	2	2
+5	Anthrazit	4736834	5733	2	2
+6	Ru\xc3\x9fschwarz	2828579	5734	2	2
+7	Rosarot	15114134	5735	4	2
+8	Altrosa	8612201	5736	4	2
+9	Rolanbeerenrot	5969705	5737	4	2
+10	Dalamudrot	7871002	5738	4	2
+11	Rostrot	6431239	5739	4	2
+12	Weinrot	4527377	5740	4	2
+13	Korallenrosa	13397086	5741	4	2
+14	Blutrot	9517863	5742	4	2
+15	Lachsrosa	14985866	5743	4	2
+16	Abendrot	12016685	5744	5	2
+17	Tafelbergrot	8206598	5745	5	2
+18	Borkenbraun	6966071	5746	5	2
+19	Schokoladenbraun	7224612	5747	5	2
+20	Rotbraun	5188895	5748	5	2
+21	Koboldbraun	3154203	5749	5	2
+22	Korkbraun	13209942	5750	5	2
+23	Qiqirnbraun	10055231	5751	5	2
+24	Opo-Opobraun	8084525	5752	5	2
+25	Steinbockbraun	10651484	5753	5	2
+26	K\xc3\xbcrbisorange	12940324	5754	5	2
+27	Eichelbraun	9328667	5755	5	2
+28	Obstbraun	6570518	5756	5	2
+29	Kastanienbraun	4008205	5757	5	2
+30	Kartonbraun	12166281	5758	5	2
+31	Schieferbraun	9601388	5759	5	2
+32	Maulwurfsbraun	6378053	5760	5	2
+33	Lehmbraun	4141865	5761	5	2
+34	Knochenwei\xc3\x9f	15455136	5762	6	2
+35	Ul'dahbraun	12034928	5763	6	2
+36	W\xc3\xbcstengelb	14398551	5764	6	2
+37	Honiggelb	16434731	5765	6	2
+38	Maisgelb	14982708	5766	6	2
+39	Coeurlgelb	12355588	5767	6	2
+40	Cremegelb	15914864	5768	6	2
+41	Halataligelb	10847280	5769	6	2
+42	Rosinenbraun	4207377	5770	6	2
+43	Schlammgr\xc3\xbcn	5788208	5771	7	2
+44	Sylphengr\xc3\xbcn	12303242	5772	7	2
+45	Limettengr\xc3\xbcn	11251796	5773	7	2
+46	Moosgr\xc3\xbcn	7369510	5774	7	2
+47	Grasgr\xc3\xbcn	9149539	5775	7	2
+48	Olivgr\xc3\xbcn	4936242	5776	7	2
+49	Sumpfgr\xc3\xbcn	3290657	5777	7	2
+50	Apfelgr\xc3\xbcn	10204003	5778	7	2
+51	Kaktusgr\xc3\xbcn	6652481	5779	7	2
+52	J\xc3\xa4gergr\xc3\xbcn	2640684	5780	7	2
+53	Ochugr\xc3\xbcn	4219705	5781	7	2
+54	Adaman-Taimaigr\xc3\xbcn	6255960	5782	7	2
+55	Nophicagr\xc3\xbcn	3886396	5783	7	2
+56	Waldgr\xc3\xbcn	1976865	5784	7	2
+57	Azurblau	9878969	5785	7	2
+58	T\xc3\xbcrkis	4420210	5786	7	2
+59	Morbolgr\xc3\xbcn	2049606	5787	7	2
+60	Eisblau	11715790	5788	8	2
+61	Himmelblau	8630482	5789	8	2
+62	Seenebelblau	6586784	5790	8	2
+63	Pfauenblau	3893382	5791	8	2
+64	Rhotanoblau	1850708	5792	8	2
+65	Leichenblau	9345964	5793	8	2
+66	Erdseimblau	5199718	5794	8	2
+67	Indigoblau	3094609	5795	8	2
+68	Tintenblau	1711911	5796	8	2
+69	Raptorenblau	5996480	5797	8	2
+70	Othardblau	3102857	5798	8	2
+71	Sturmblau	2310514	5799	8	2
+72	Nichtsblau	1124676	5800	8	2
+73	K\xc3\xb6nigsblau	2568295	5801	8	2
+74	Mitternachtsblau	1579319	5802	8	2
+75	Schattenblau	3618631	5803	8	2
+76	Tiefblau	3222871	5804	8	2
+77	Lavendelblau	8880046	5805	9	2
+78	D\xc3\xbcsterviolett	5326176	5806	9	2
+79	Johannisbeerenviolett	3288123	5807	9	2
+80	Irisviolett	12033724	5808	9	2
+81	Weintraubenviolett	3877437	5809	9	2
+82	Lotusrosa	16699125	5810	9	2
+83	Kolibrirosa	14457802	5811	9	2
+84	Pflaumenviolett	7950956	5812	9	2
+85	K\xc3\xb6nigsviolett	6697038	5813	9	2
+86		0	0	0	2
+87		0	0	0	2
+88		0	0	0	2
+89		0	0	0	2
+90		0	0	0	2
+91		0	0	0	2
+92		0	0	0	2
+93		0	0	0	2
+94		0	0	0	2
+95		0	0	0	2
+96		0	0	0	2
+97		0	0	0	2
+98		0	0	0	2
+99		0	0	0	2
+100		0	0	0	2
+101	Wolkenwei\xc3\x9f	16382196	8732	10	2
+102	Rabenschwarz	1973790	8733	10	2
+103	Pastellrosa	16632006	8734	10	2
+104	Dunkelrot	3283225	8735	0	2
+105	Dunkelbraun	2629916	8736	0	2
+106	Pastellgr\xc3\xbcn	12242858	8737	10	2
+107	Dunkelgr\xc3\xbcn	1387564	8738	0	2
+108	Pastellblau	9872601	8739	10	2
+109	Dunkelblau	1187629	8740	0	2
+110	Pastellviolett	12301786	8741	10	2
+111	Dunkelviolett	2301990	8742	0	2
+112	Metallic Silber	10987431	8743	10	1
+113	Metallic Gold	15590973	8744	10	1
+114	Metallic Rot	11935051	8745	10	1
+115	Metallic Orange	14978095	8746	0	1
+116	Metallic Gelb	16046662	8747	0	1
+117	Metallic Gr\xc3\xbcn	2271063	8748	10	1
+118	Metallic Himmelblau	6214886	8749	0	1
+119	Metallic Blau	5264089	8750	10	1
+120	Metallic Violett	10708674	8751	0	1

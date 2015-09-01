@@ -1,0 +1,266 @@
+0			0
+1	The Insatiable	The Insatiable	0
+2	The True	The True	0
+3	Coeurlfist	Coeurlfist	1
+4	Ironeater	Ironeater	1
+5	Of the Vengeful Lance	Of the Vengeful Lance	0
+6	The Godsbow	The Godsbow	0
+7	The White	The White	0
+8	Starcaller	Starcaller	1
+9	The Exterminator	The Exterminator	0
+10	Notorious Monster Hunter	Notorious Monster Hunter	1
+11	Honest Gillionaire	Honest Gillionaire	1
+12	Ruthless Gillionaire	Ruthless Gillionaire	1
+13	Warmonger	Warmonger	1
+14	Archmage	Archmage	1
+15	Builder of the Realm	Builder of the Realm	0
+16	Provider of the Realm	Provider of the Realm	0
+17	Of the Golden Saw	Of the Golden Saw	0
+18	Of the Golden Anvil	Of the Golden Anvil	0
+19	Of the Golden Hammer	Of the Golden Hammer	0
+20	Of the Golden Leaf	Of the Golden Leaf	0
+21	Of the Golden Hide	Of the Golden Hide	0
+22	Of the Golden Needle	Of the Golden Needle	0
+23	Of the Golden Lead	Of the Golden Lead	0
+24	Of the Golden Ladle	Of the Golden Ladle	0
+25	Meadowbreaker	Meadowbreaker	1
+26	Forestbreaker	Forestbreaker	1
+27	Desertbreaker	Desertbreaker	1
+28	Of the Meadow Mines	Of the Meadow Mines	0
+29	Of the Forest Mines	Of the Forest Mines	0
+30	Of the Desert Mines	Of the Desert Mines	0
+31	Meadowreaper	Meadowreaper	1
+32	Forestreaper	Forestreaper	1
+33	Desertreaper	Desertreaper	1
+34	Of the Meadow Grasses	Of the Meadow Grasses	0
+35	Of the Forest Grasses	Of the Forest Grasses	0
+36	Of the Desert Grasses	Of the Desert Grasses	0
+37	Meadowcaster	Meadowcaster	1
+38	Forestcaster	Forestcaster	1
+39	Desertcaster	Desertcaster	1
+40	Of the Meadow Pools	Of the Meadow Pools	0
+41	Of the Forest Pools	Of the Forest Pools	0
+42	Of the Desert Pools	Of the Desert Pools	0
+43	Carrier of the Cauldron	Carrier of the Cauldron	0
+44	The Assimilator	The Assimilator	0
+45	Seeker of Blood	Seeker of Blood	0
+46	Seeker of Truth	Seeker of Truth	0
+47	Seeker of Skill	Seeker of Skill	0
+48	Seeker of Bounty	Seeker of Bounty	0
+49	Sidestepper	Sidestepper	1
+50	Lord Protector	Lady Protector	1
+51	Lord Creator	Lady Creator	1
+52	Peacemaker	Peacemaker	1
+53	The Last Resort	The Last Resort	0
+54	The Sword of La Noscea	The Sword of La Noscea	0
+55	The Sword of the Shroud	The Sword of the Shroud	0
+56	The Sword of Thanalan	The Sword of Thanalan	0
+57	The Sword of Eorzea	The Sword of Eorzea	0
+58	The Shield of La Noscea	The Shield of La Noscea	0
+59	The Shield of the Shroud	The Shield of the Shroud	0
+60	The Shield of Thanalan	The Shield of Thanalan	0
+61	The Shield of Eorzea	The Shield of Eorzea	0
+62	Brother of the Broken Blade	Sister of the Broken Blade	1
+63	The Warden's Wall	The Warden's Wall	0
+64	Bearer of the Horn	Bearer of the Horn	1
+65	The Uncommitted	The Uncommitted	0
+66	The Professional	The Professional	0
+67	Inquisitor	Inquisitor	1
+68	Divine Crusher	Divine Crusher	1
+69	Stonesplitter	Stonesplitter	1
+70	A Kobold's Worst Nightmare	A Kobold's Worst Nightmare	0
+71	An Ixal's Worst Nightmare	An Ixal's Worst Nightmare	0
+72	An Amalj'aa's Worst Nightmare	An Amalj'aa's Worst Nightmare	0
+73	The Guardian of Aleport	The Guardian of Aleport	0
+74	The Guardian of Hyrstmill	The Guardian of Hyrstmill	0
+75	The Guardian of the Golden Bazaar	The Guardian of the Golden Bazaar	0
+76	The Wind of Aleport	The Wind of Aleport	0
+77	The Wind of Hyrstmill	The Wind of Hyrstmill	0
+78	The Wind of the Golden Bazaar	The Wind of the Golden Bazaar	0
+79	The Hand of Aleport	The Hand of Aleport	0
+80	The Hand of Hyrstmill	The Hand of Hyrstmill	0
+81	The Hand of the Golden Bazaar	The Hand of the Golden Bazaar	0
+82	Wild Thing	Wild Thing	1
+83	The Winter Wyrm	The Winter Wyrm	0
+84	Messenger of Love	Messenger of Love	1
+85	Royal Seneschal	Princess for a Day	1
+86	Dreamseeker	Dreamseeker	1
+87	Cascadier	Cascadier	1
+88	Crystal Bearer	Crystal Bearer	1
+89	Stormlord	Stormlady	1
+90	Serpentlord	Serpentlady	1
+91	Flamelord	Flamelady	1
+92	The Stormsworn	The Stormsworn	0
+93	The Serpentsworn	The Serpentsworn	0
+94	The Flamesworn	The Flamesworn	0
+95	Stormcarrier	Stormcarrier	1
+96	Serpentcarrier	Serpentcarrier	1
+97	Flamecarrier	Flamecarrier	1
+98	Stormbringer	Stormbringer	1
+99	Serpentbringer	Serpentbringer	1
+100	Flamebringer	Flamebringer	1
+101	Featherfoot	Featherfoot	1
+102	A Bo's Best Friend	A Bo's Best Friend	1
+103	Lightning	Lightning	1
+104	Cavalier	Cavalier	1
+105	The Wanderer's Shadow	The Wanderer's Shadow	0
+106	Green Eyes	Green Eyes	0
+107	The Strategist	The Strategist	0
+108	The Reaper	The Reaper	0
+109	Dungeon Master	Dungeon Master	1
+110	Tempter of Fate	Temptress of Fate	0
+111	Elite Cascadier	Elite Cascadier	1
+112	Storm Puppy	Storm Puppy	1
+113	Storm Howler	Storm Howler	1
+114	Storm Growler	Storm Growler	1
+115	Storm Hound	Storm Hound	1
+116	Storm Stalker	Storm Stalker	1
+117	Storm Chaser	Storm Chaser	1
+118			0
+119			0
+120			0
+121			0
+122	Serpent Puppy	Serpent Puppy	1
+123	Serpent Howler	Serpent Howler	1
+124	Serpent Growler	Serpent Growler	1
+125	Serpent Hound	Serpent Hound	1
+126	Serpent Stalker	Serpent Stalker	1
+127	Serpent Chaser	Serpent Chaser	1
+128			0
+129			0
+130			0
+131			0
+132	Flame Puppy	Flame Puppy	1
+133	Flame Howler	Flame Howler	1
+134	Flame Growler	Flame Growler	1
+135	Flame Hound	Flame Hound	1
+136	Flame Stalker	Flame Stalker	1
+137	Flame Chaser	Flame Chaser	1
+138			0
+139			0
+140			0
+141			0
+142	The Ravenous Wolf	The Ravenous Wolf	0
+143	The Alpha Wolf	The Alpha Wolf	0
+144	The Heart of the Party	The Heart of the Party	0
+145	Brother of Ash	Sister of Ash	1
+146	Sylph-Friend	Sylph-Friend	1
+147	Treasure Hunter	Treasure Hunter	1
+148	789th Order Champion	789th Order Champion	1
+149	Novv Clutchmate	Novv Clutchmate	1
+150	The Ambitious Angler	The Ambitious Angler	0
+151	The Meat Shield	The Meat Shield	0
+152	The Meat Axe	The Meat Axe	0
+153	Of the Stalwart Shield	Of the Stalwart Shield	0
+154	Of the Stalwart Axe	Of the Stalwart Axe	0
+155	Frontline Forerunner	Frontline Forerunner	1
+156	Storm Forerunner	Storm Forerunner	1
+157	Flame Forerunner	Flame Forerunner	1
+158	Serpent Forerunner	Serpent Forerunner	1
+159	Drone Sniper	Drone Sniper	1
+160	Heliodrome Hero	Heliodrome Hero	1
+161	Hunter for Hire	Hunter for Hire	1
+162	Seeker of Fortune	Seeker of Fortune	1
+163	Seasoned Tracker	Seasoned Tracker	1
+164	Bounty Hunter	Bounty Hunter	1
+165	Soldier of Fortune	Soldier of Fortune	1
+166	Captain of the Hunt	Captain of the Hunt	0
+167	Rafflesia Reaper	Rafflesia Reaper	1
+168	Melusine Mauler	Melusine Mauler	1
+169	The Avatar	The Avatar	0
+170	Domitor	Domitrix	0
+171	The Disassembler	The Disassembler	1
+172			0
+173	Bearer of the Coffer	Bearer of the Coffer	1
+174	Defender of Eorzea	Defender of Eorzea	0
+175	The Postman	The Postwoman	0
+176	Ehcatl Blackguard	Ehcatl Blackguard	1
+177	The Negotiator	The Negotiator	0
+178	The Final Witness	The Final Witness	0
+179	Of Dragons Deep	Of Dragons Deep	0
+180	Master Caster	Master Caster	1
+181			0
+182	The Shadow	The Shadow	0
+183	Icebreaker	Icebreaker	1
+184	Of the Silver Lining	Of the Silver Lining	0
+185	Gentleman	Gentlewoman	1
+186	Cupid	Cupid	1
+187	Tamer of Steeds	Tamer of Steeds	0
+188	The Unsevered	The Unsevered	0
+189	Slaughterhouse	Slaughterhouse	1
+190	The Hand of Mercy	The Hand of Mercy	0
+191	The Light in Hand	The Light in Hand	0
+192	The Light of the Land	The Light of the Land	0
+193	Z	Z	0
+194	Golemancer	Golemancer	1
+195	Gambler	Gambler	1
+196	High Roller	High Roller	1
+197	Chocobo Breeder	Chocobo Breeder	1
+198	Chocobo Trainer	Chocobo Trainer	1
+199	Bug Boy	Bug Girl	1
+200	Senior Jockey	Senior Jockey	1
+201	Veteran Jockey	Veteran Jockey	1
+202	The First Across	The First Across	0
+203	Deck Holder	Deck Holder	1
+204	Deck Hoarder	Deck Hoarder	1
+205	The Trinity	The Trinity	0
+206	Duelist	Duelist	1
+207	Keymaster	Gatekeeper	1
+208	The Fungah	The Fungah	0
+209	Moneybags	Moneybags	1
+210	Raiser of Mountains	Raiser of Mountains	0
+211	Bearer of the Torch	Bearer of the Torch	0
+212	Postmaster	Postmaster	1
+213	Half-boiled Hero	Half-boiled Heroine	1
+214	Unbeliever	Unbeliever	1
+215	The Redeemed	The Redeemed	0
+216	Nidhogg Slayer	Nidhogg Slayer	1
+217	Of the Silver Fuller	Of the Silver Fuller	0
+218	Imperial Nuisance	Imperial Nuisance	0
+219	Under-archon	Under-archon	1
+220	The End of Ascalon	The End of Ascalon	1
+221	The Pacifier	The Pacifier	0
+222	The Oathkeeper	The Oathkeeper	0
+223	Of the 14th Chakra	Of the 14th Chakra	0
+224	The Mythril Heart	The Mythril Heart	0
+225	The Azure Dragoon	The Azure Dragoon	0
+226	Skysinger	Skysinger	0
+227	Pure White	Pure White	1
+228	Annihilator	Annihilator	1
+229	Dreadspawn	Dreadspawn	0
+230	Nymian Marine	Nymian Marine	1
+231	The Darkest Shadow	The Darkest Shadow	0
+232	Blackblood	Blackblood	0
+233	Liberator	Liberator	1
+234	Stargazer	Stargazer	1
+235	Illuminati Quencher	Illuminati Quencher	1
+236	Finder of False Gods	Finder of False Gods	0
+237	Lighter than Air	Lighter than Air	1
+238			0
+239	Grandmaster of War	Grandmaster of War	1
+240	Grandmaster of Magic	Grandmaster of Magic	1
+241	Dark Driver	Dark Driver	1
+242	Of the Stalwart Sword	Of the Stalwart Sword	0
+243	Keeper of Knowledge	Keeper of Knowledge	1
+244	Swallowtail	Swallowtail	1
+245	Storm Intelligencer	Storm Intelligencer	1
+246	Serpent Intelligencer	Serpent Intelligencer	1
+247	Flame Intelligencer	Flame Intelligencer	1
+248	Grandmaster of the Hand	Grandmaster of the Hand	1
+249	Grandmaster of the Land	Grandmaster of the Land	1
+250	Molder of Masterpieces	Molder of Masterpieces	1
+251	Amasser of Masterpieces	Amasser of Masterpieces	1
+252	Business Associate	Business Associate	1
+253	Master Carpenter	Master Carpenter	1
+254	Master Blacksmith	Master Blacksmith	1
+255	Master Armorer	Master Armorer	1
+256	Master Goldsmith	Master Goldsmith	1
+257	Master Leatherworker	Master Leatherworker	1
+258	Master Weaver	Master Weaver	1
+259	Master Alchemist	Master Alchemist	1
+260	Master Culinarian	Master Culinarian	1
+261	Master Miner	Master Miner	1
+262	Master Botanist	Master Botanist	1
+263	Master Fisher	Master Fisher	1
+264	The Fortunate	The Fortunate	0
+265	Good Samaritan	Good Samaritan	1

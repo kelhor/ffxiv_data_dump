@@ -1,0 +1,19 @@
+0		0	0
+1	Battlecraft	62501	0
+2	Miner	62510	0
+3	Botanist	62511	0
+4	Fisher	62512	0
+5	Carpenter	62502	0
+6	Blacksmith	62503	0
+7	Armorer	62504	0
+8	Goldsmith	62505	0
+9	Leatherworker	62506	0
+10	Weaver	62507	0
+11	Alchemist	62508	0
+12	Culinarian	62509	0
+13	Brotherhood of the Broken Blade	61451	1
+14	Azeyma's Shields	61452	1
+15	The Horn and Hand	61453	1
+16	The Maelstrom	61461	0
+17	Order of the Twin Adder	61462	0
+18	Immortal Flames	61463	0

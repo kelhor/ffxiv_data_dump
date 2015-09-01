@@ -1,0 +1,67 @@
+0		0	1
+1	Kampferfolge	1	1
+2	Dungeons	1	1
+3	Pr\xc3\xbcfungen	1	1
+4	Raids	1	1
+5	Wolfsh\xc3\xb6hle	1	1
+6	Front	1	1
+7	Hohe Jagd	1	1
+8	Schatzsuche	1	1
+9	Charakter	2	1
+10	Krieger	2	1
+11	Magier	2	1
+12	Handwerker	2	1
+13	Sammler	2	1
+14	PvP	2	1
+15	Ehrungen	2	1
+16	Gold Saucer	2	1
+17	Gegenst\xc3\xa4nde	4	1
+18	Verm\xc3\xb6gen	4	1
+19	Verwertung	4	1
+20	Sammlerst\xc3\xbccke	4	1
+21	Materia	4	1
+22	Zimmerer	5	1
+23	Grobschmied	5	1
+24	Plattner	5	1
+25	Goldschmied	5	1
+26	Gerber	5	1
+27	Weber	5	1
+28	Alchemist	5	1
+29	Gourmet	5	1
+30	Minenarbeiter	6	1
+31	G\xc3\xa4rtner	6	1
+32	Fischer	6	1
+33	Auftr\xc3\xa4ge	8	1
+34	Freibriefe	8	1
+35	Wilde St\xc3\xa4mme	8	1
+36	Saisonale Ereignisse	8	3
+37	La Noscea	11	1
+38	Finsterwald	11	1
+39	Thanalan	11	1
+40	Coerthas	11	1
+41	Mor Dhona	11	1
+42	Abalathia	11	1
+43	Dravania	11	1
+44	Staatliche Gesellschaften	12	1
+45	Mahlstrom	12	1
+46	Bruderschaft	12	1
+47	Legion	12	1
+48	Kampferfolge	13	1
+49	Verm\xc3\xb6gen	13	1
+50	Sammeln	13	1
+51	Auftr\xc3\xa4ge	13	1
+52	Saisonale Ereignisse	13	1
+53	Dungeons	13	1
+54	Erkundungen	13	1
+55	Staatliche Gesellschaften	13	1
+56		0	1
+57		0	1
+58		0	1
+59		0	1
+60		0	1
+61		0	1
+62		0	1
+63		0	1
+64		0	1
+65		0	1
+66		0	1

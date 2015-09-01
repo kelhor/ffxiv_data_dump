@@ -1,0 +1,67 @@
+0		0	1
+1	G\xc3\xa9n\xc3\xa9ral	1	1
+2	Donjons	1	1
+3	D\xc3\xa9fis	1	1
+4	Raids	1	1
+5	L'Antre des loups	1	1
+6	Front	1	1
+7	Contrats de chasse	1	1
+8	Chasse aux tr\xc3\xa9sors	1	1
+9	G\xc3\xa9n\xc3\xa9ral	2	1
+10	Disciples de la guerre	2	1
+11	Disciples de la magie	2	1
+12	Disciples de la main	2	1
+13	Disciples de la terre	2	1
+14	JcJ	2	1
+15	Honneurs	2	1
+16	Gold Saucer	2	1
+17	G\xc3\xa9n\xc3\xa9ral	4	1
+18	Devises	4	1
+19	Recyclage	4	1
+20	Objets collectionnables	4	1
+21	Mat\xc3\xa9rias	4	1
+22	Menuisier	5	1
+23	Forgeron	5	1
+24	Armurier	5	1
+25	Orf\xc3\xa8vre	5	1
+26	Tanneur	5	1
+27	Couturier	5	1
+28	Alchimiste	5	1
+29	Cuisinier	5	1
+30	Mineur	6	1
+31	Botaniste	6	1
+32	P\xc3\xaacheur	6	1
+33	G\xc3\xa9n\xc3\xa9ral	8	1
+34	Mandats	8	1
+35	Qu\xc3\xaates tribales	8	1
+36	\xc3\x89v\xc3\xa9nements saisonniers	8	3
+37	Noscea	11	1
+38	For\xc3\xaat de Sombrelinceul	11	1
+39	Thanalan	11	1
+40	Coerthas	11	1
+41	Mor Dhona	11	1
+42	Abalathia	11	1
+43	Dravania	11	1
+44	G\xc3\xa9n\xc3\xa9ral	12	1
+45	Maelstrom	12	1
+46	Ordre des deux vip\xc3\xa8res	12	1
+47	Immortels	12	1
+48	Combats	13	1
+49	Devises	13	1
+50	R\xc3\xa9colte	13	1
+51	Qu\xc3\xaates	13	1
+52	\xc3\x89v\xc3\xa9nements saisonniers	13	1
+53	Donjons	13	1
+54	Exploration	13	1
+55	Grandes compagnies	13	1
+56		0	1
+57		0	1
+58		0	1
+59		0	1
+60		0	1
+61		0	1
+62		0	1
+63		0	1
+64		0	1
+65		0	1
+66		0	1

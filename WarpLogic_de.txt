@@ -1,0 +1,10 @@
+0		0		0		0		0		0		0		0		0		0		0					0	0
+1		0		0		0		0		0		0		0		0		0		0		Ja	Nein		0	0
+2	HOWTO_ABOUT_RENTAL_CHOCOBO	81	LOGMSG_CHOCOBO_SUMMON_FAIL_FOR_BUDDY	1337		0		0		0		0		0		0		0		0	Chocobo mieten			WarpRentalChocobo	0	1
+3		0		0		0		0		0		0		0		0		0		0				WarpInnLimsaLominsa	0	1
+4		0		0		0		0		0		0		0		0		0		0				WarpInnGridania	0	1
+5		0		0		0		0		0		0		0		0		0		0				WarpInnUldah	0	1
+6		0		0		0		0		0		0		0		0		0		0		Ja	Nein	WarpHousingEnterHouse	0	1
+7		0		0		0		0		0		0		0		0		0		0		Ja	Nein	WarpHousingExitHouse	0	1
+8	QUEST_WEDDING	67114	ITEM_CHILD_TICKET	8699		0		0		0		0		0		0		0		0		Ja	Nein	WarpWeddingPlaceDesk	0	0
+9		0		0		0		0		0		0		0		0		0		0				WarpInnIshgard	0	1

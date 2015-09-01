@@ -1,0 +1,38 @@
+0		0	0	0
+1	Produzent	61531	0	0
+2	Game Master	61524	0	0
+3	Game Master	61532	0	0
+4	Game Master	61533	0	0
+5	Nicht verbunden	61503	0	0
+6	Anfrage gesendet (Freundesliste)	61501	1	1
+7	Anfrage gesendet (Kontaktkreis)	61501	2	1
+8	Anfrage gesendet (Freie Gesellschaft)	61501	3	1
+9	Nicht gefunden	61502	4	1
+10	Offline	61504	5	1
+11	Besch\xc3\xa4ftigt	61509	6	1
+12	PvP	61510	7	1
+13	Spielt Triple Triad	61539	8	1
+14	Sieht Videosequenz	61508	9	1
+15	Auf Linien-Chocobo	61534	11	1
+16	Abwesend	61511	12	1
+17	Sucht Reparateur	61512	13	1
+18	\xc3\x9cbernimmt Reparatur	61513	14	1
+19	\xc3\x9cbernimmt Materia-Einsetzen	61514	15	1
+20	Sucht Gruppe	61515	16	1
+21	Sucht S\xc3\xb6ldner	61516	17	1
+22	In Inhaltssuche	61517	18	1
+23	In Gruppensuche	61536	19	1
+24	Neuling	61523	26	1
+25	Allianzanf\xc3\xbchrer	61518	20	1
+26	Allianz-Gruppenanf\xc3\xbchrer	61519	21	1
+27	Allianz-Gruppenmitglied	61520	22	1
+28	Gruppenanf\xc3\xbchrer	61521	23	1
+29	In Gruppe	61522	24	1
+30	In anderer Welt	61535	25	1
+31	Im selben Inhalt	61506	0	0
+32	In \xc3\xa4hnlichem Inhalt	61507	0	0
+33	Im Kampf	61510	10	1
+34	Probezeit	61525	28	1
+35	Freie Gesellschaft	0	0	0
+36	Staatliche Gesellschaft	0	0	0
+37	Online	61505	27	1

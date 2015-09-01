@@ -1,0 +1,121 @@
+0		0	5728	2	2
+1	blanc neige	14999504	5729	2	2
+2	gris cendre	11315362	5730	2	2
+3	gris goobbue	9013124	5731	2	2
+4	gris ardoise	6645093	5732	2	2
+5	gris charbon	4736834	5733	2	2
+6	noir suie	2828579	5734	2	2
+7	rose floral	15114134	5735	4	2
+8	lilas	8612201	5736	4	2
+9	rouge rolanberry	5969705	5737	4	2
+10	rouge Dalamud	7871002	5738	4	2
+11	rouille	6431239	5739	4	2
+12	lie-de-vin	4527377	5740	4	2
+13	rose corail	13397086	5741	4	2
+14	rouge sang	9517863	5742	4	2
+15	rose saumon	14985866	5743	4	2
+16	orange couchant	12016685	5744	5	2
+17	vermillon terne	8206598	5745	5	2
+18	marron \xc3\xa9corce	6966071	5746	5	2
+19	chocolat	7224612	5747	5	2
+20	brun fauve	5188895	5748	5	2
+21	brun kobold	3154203	5749	5	2
+22	brun li\xc3\xa8ge	13209942	5750	5	2
+23	brun qiqirn	10055231	5751	5	2
+24	brun opo-opo	8084525	5752	5	2
+25	brun bouquetin	10651484	5753	5	2
+26	orange citrouille	12940324	5754	5	2
+27	brun noisette	9328667	5755	5	2
+28	feuille-morte	6570518	5756	5	2
+29	brun ch\xc3\xa2taigne	4008205	5757	5	2
+30	brun gobelin	12166281	5758	5	2
+31	brun schiste	9601388	5759	5	2
+32	brun taupe	6378053	5760	5	2
+33	brun argile	4141865	5761	5	2
+34	ivoire	15455136	5762	6	2
+35	ocre uldien	12034928	5763	6	2
+36	jaune chocobo	14398551	5764	6	2
+37	jaune miel	16434731	5765	6	2
+38	jaune milli-ma\xc3\xafs	14982708	5766	6	2
+39	jaune coeurl	12355588	5767	6	2
+40	jaune cr\xc3\xa8me	15914864	5768	6	2
+41	jaune Halatali	10847280	5769	6	2
+42	raisin sec	4207377	5770	6	2
+43	kaki	5788208	5771	7	2
+44	vert sylphe	12303242	5772	7	2
+45	vert citron	11251796	5773	7	2
+46	vert mousse	7369510	5774	7	2
+47	vert prairie	9149539	5775	7	2
+48	vert olive	4936242	5776	7	2
+49	vert viridien	3290657	5777	7	2
+50	vert pomme	10204003	5778	7	2
+51	vert cactuar	6652481	5779	7	2
+52	vert chasseur	2640684	5780	7	2
+53	vert otyugh	4219705	5781	7	2
+54	vert adamankh\xc3\xa9lone	6255960	5782	7	2
+55	vert Nophica	3886396	5783	7	2
+56	vert sapin	1976865	5784	7	2
+57	vert c\xc3\xa9leste	9878969	5785	7	2
+58	turquoise	4420210	5786	7	2
+59	vert morbol	2049606	5787	7	2
+60	bleu glace	11715790	5788	8	2
+61	bleu ciel	8630482	5789	8	2
+62	bleu horizon	6586784	5790	8	2
+63	bleu paon	3893382	5791	8	2
+64	bleu de Rhotano	1850708	5792	8	2
+65	bleu charron	9345964	5793	8	2
+66	bleu c\xc3\xa9ruleum	5199718	5794	8	2
+67	bleu gu\xc3\xa8de	3094609	5795	8	2
+68	bleu encre	1711911	5796	8	2
+69	bleu raptor	5996480	5797	8	2
+70	bleu d'Othard	3102857	5798	8	2
+71	bleu temp\xc3\xaate	2310514	5799	8	2
+72	bleu du n\xc3\xa9ant	1124676	5800	8	2
+73	bleu royal	2568295	5801	8	2
+74	bleu de minuit	1579319	5802	8	2
+75	bleu turquin	3618631	5803	8	2
+76	bleu marine	3222871	5804	8	2
+77	lavande	8880046	5805	9	2
+78	colombin	5326176	5806	9	2
+79	cassis	3288123	5807	9	2
+80	iris	12033724	5808	9	2
+81	raisin	3877437	5809	9	2
+82	mauve lotus	16699125	5810	9	2
+83	mauve colibri	14457802	5811	9	2
+84	prune	7950956	5812	9	2
+85	byzantium	6697038	5813	9	2
+86		0	0	0	2
+87		0	0	0	2
+88		0	0	0	2
+89		0	0	0	2
+90		0	0	0	2
+91		0	0	0	2
+92		0	0	0	2
+93		0	0	0	2
+94		0	0	0	2
+95		0	0	0	2
+96		0	0	0	2
+97		0	0	0	2
+98		0	0	0	2
+99		0	0	0	2
+100		0	0	0	2
+101	blanc immacul\xc3\xa9	16382196	8732	10	2
+102	noir de jais	1973790	8733	10	2
+103	rose pastel	16632006	8734	10	2
+104	rouge fonc\xc3\xa9	3283225	8735	0	2
+105	brun fonc\xc3\xa9	2629916	8736	0	2
+106	vert pastel	12242858	8737	10	2
+107	vert fonc\xc3\xa9	1387564	8738	0	2
+108	bleu pastel	9872601	8739	10	2
+109	bleu fonc\xc3\xa9	1187629	8740	0	2
+110	violet pastel	12301786	8741	10	2
+111	violet fonc\xc3\xa9	2301990	8742	0	2
+112	argent brillant	10987431	8743	10	1
+113	or brillant	15590973	8744	10	1
+114	rouge m\xc3\xa9tallique	11935051	8745	10	1
+115	orange m\xc3\xa9tallique	14978095	8746	0	1
+116	jaune m\xc3\xa9tallique	16046662	8747	0	1
+117	vert m\xc3\xa9tallique	2271063	8748	10	1
+118	bleu ciel m\xc3\xa9tallique	6214886	8749	0	1
+119	bleu m\xc3\xa9tallique	5264089	8750	10	1
+120	violet m\xc3\xa9tallique	10708674	8751	0	1

@@ -1,0 +1,19 @@
+0		0	0
+1	Mercenariat	62501	0
+2	Mineur	62510	0
+3	Botaniste	62511	0
+4	P\xc3\xaacheur	62512	0
+5	Menuisier	62502	0
+6	Forgeron	62503	0
+7	Armurier	62504	0
+8	Orf\xc3\xa8vre	62505	0
+9	Tanneur	62506	0
+10	Couturier	62507	0
+11	Alchimiste	62508	0
+12	Cuisinier	62509	0
+13	La Phratrie des lames cass\xc3\xa9es	61451	1
+14	Les Boucliers d'Azeyma	61452	1
+15	L'association de la Corne et la Main	61453	1
+16	Le Maelstrom	61461	0
+17	L'Ordre des deux vip\xc3\xa8res	61462	0
+18	Les Immortels	61463	0

@@ -1,0 +1,19 @@
+0		0	0
+1	S\xc3\xb6ldner	62501	0
+2	Minenarbeiter	62510	0
+3	G\xc3\xa4rtner	62511	0
+4	Fischer	62512	0
+5	Zimmerer	62502	0
+6	Grobschmied	62503	0
+7	Plattner	62504	0
+8	Goldschmied	62505	0
+9	Gerber	62506	0
+10	Weber	62507	0
+11	Alchemist	62508	0
+12	Gourmet	62509	0
+13	Bruderschaft der gebrochenen Klinge	61451	1
+14	Azeymas Schilde	61452	1
+15	Ruhmreicher H\xc3\xb6rnerschall	61453	1
+16	Der Mahlstrom	61461	0
+17	Bruderschaft der Morgenviper	61462	0
+18	Legion der Unsterblichen	61463	0

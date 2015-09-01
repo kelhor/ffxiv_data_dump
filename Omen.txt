@@ -1,0 +1,103 @@
+0			0	0	1
+1	general01f	general01_pf	0	0	1
+2	general02f	general02_pf	4	0	1
+3	gl_fan060_0f	gl_fan060_0pf	3	0	1
+4	gl_fan090_0f	gl_fan090_0pf	3	0	1
+5	gl_fan120_0f	gl_fan120_0pf	3	0	1
+6	m0096sp_05c1s		2	0	1
+7	m0096sp_06c2s		2	0	1
+8	m0098sp04cx0t		2	0	1
+9	m0098sp07cx0t		4	0	1
+10	m0077sp03o0m		4	0	1
+11	m0077sp03o1m		4	0	1
+12	gl_sircle_1907af		2	0	1
+13	gl_sircle_3004af		2	0	1
+14	gl_sircle_5003af		2	0	1
+15	gl_fan270_0100af		3	0	1
+16	gl_fan270_1005af		3	0	1
+17	gl_fan270_1510af		3	0	1
+18	sandpilr1o0c		2	0	1
+19	m0063gt_loop_0m		2	0	1
+20	m0057sp09cx0s		2	0	1
+21	m0062sp_03o0s		2	0	0
+22	taihuunome0m		2	0	1
+23	tatumaki0m		2	0	1
+24	m063sp019o0c		4	0	1
+25	m0031sp03o0c		4	0	1
+26	m0099sp_03o0t		4	0	1
+27	gl_shipimpact0f		2	0	1
+28	gl_fan150_0f	gl_fan150_0pf	3	0	1
+29	d1006_meteo1m		2	0	1
+30	d1006_sp04o1m		2	0	1
+31	m0172sp05o0c		4	0	1
+32	m0095sp16o0c		3	0	1
+33	m0073_mijingiri1m		4	0	1
+34	m0073_wagiri1m		3	0	1
+35	m0073_wagiri2m		3	0	1
+36	m0073_wagiri3m		3	0	1
+37	m0073_wagiri4m		3	0	1
+38	m0073_ougigiri1m		3	0	1
+39	m0073_jiraisin1m		2	0	1
+40	undeadraise1o0h		2	4	1
+41	rinsen_s_omen		3	0	1
+42	rinsen_m_omen		3	0	1
+43	rinsen_l_omen		3	0	1
+44	leviathan_mizubakudan1t0h		2	0	1
+45	neil_jiware_o0t		3	0	1
+46	bahamut2_bomu_omen0s		2	0	1
+47	m0171sp05o0c		2	0	1
+48	d1006_delta1m		3	0	1
+49	d1006_overpowaer1m		3	0	1
+50	m0123_banrai_omen1s		2	0	1
+51	m0212sp02o0c		2	0	1
+52	kuraken_kanketu_gtkougeki_o0c		2	0	1
+53	m0074sp04o0c		2	0	1
+54	m7006sp01omen1s		4	0	1
+55	m7006sp03omen1s		4	0	1
+56	m0125sp05o0h		3	0	1
+57	m0125_gardian_enerugihdan_0m		2	0	1
+58	shiva_fuyuturara_raka_omen1m		2	0	1
+59	shiva_fleezfloa_omen0m		2	0	1
+60	m0070_fan120_0h		3	0	1
+61	m0070_fan180_0h		3	0	1
+62	phoenix_bluefire0t		2	0	1
+63	m0118sp05o0t		4	0	1
+64	m0117_gtae_01s		2	0	1
+65	m0117_trap_01s		2	0	1
+66	m0129sp01_omen_m		3	0	1
+67	mokuyaku_genryu_bom1m		2	0	1
+68	mokuyaku_genryu_bom2m		2	0	1
+69	mokuyaku_genryu_bom3m		2	0	1
+70	mokuyaku_genryu_o1m		3	0	1
+71	mokuyaku_genryu_o2m		3	0	1
+72	mokuyaku_genryu_o3m		2	0	1
+73	m131om_setu0f		4	0	1
+74	m131om_getu0f		2	2	1
+75	m131om_hana0f		3	0	1
+76	m070_fleezfloa_omen0f		2	0	1
+77	m070_meteo1f		2	0	1
+78	gl_sircle_1512af		2	0	1
+79	m0272sp09o0c		2	0	1
+80	m0260sp03o0c		3	0	1
+81	m0227_sp03_omen1s		2	0	1
+82	d1024_sp03_0s		3	0	1
+83	fate_altema_madoufensu1t		2	0	1
+84	m0248_freeze_o0c		4	0	1
+85	m0248_center_o0c		4	0	1
+86	m0248_side_o0c		4	0	1
+87	d1015sp11o0c		2	0	1
+88	m0244laser_o0t		4	0	1
+89	m0244donut_o0t		2	0	1
+90	d1025_sp012_bunsan01s		2	0	1
+91	c0501_fan240af		3	0	1
+92	d1025_sp11_zignzan0c		2	0	1
+93	m0103sp03o0t		2	0	1
+94	m0244en_o0t		2	0	1
+95	m0066tatari_o0c		2	0	1
+96	bismarck_mizubakudan1h		2	0	1
+97			0	0	1
+98			0	0	1
+99	gl_fan030_0f		3	0	1
+100	gl_fan060_1f		3	0	1
+101	gl_fan120_1f		3	0	1
+102	general01bf		3	0	1

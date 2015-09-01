@@ -1,0 +1,38 @@
+0		0	0	0
+1	Producteur	61531	0	0
+2	Ma\xc3\xaetre de jeu	61524	0	0
+3	Ma\xc3\xaetre de jeu	61532	0	0
+4	Ma\xc3\xaetre de jeu	61533	0	0
+5	D\xc3\xa9connect\xc3\xa9(e)	61503	0	0
+6	En attente de r\xc3\xa9ponse (requ\xc3\xaate d'ami)	61501	1	1
+7	En attente de r\xc3\xa9ponse (linkshell)	61501	2	1
+8	En attente de r\xc3\xa9ponse (compagnie libre)	61501	3	1
+9	Pas trouv\xc3\xa9(e)	61502	4	1
+10	Hors ligne	61504	5	1
+11	Occup\xc3\xa9(e)	61509	6	1
+12	JcJ	61510	7	1
+13	Triple Triade	61539	8	1
+14	Cin\xc3\xa9matique	61508	9	1
+15	\xc3\x80 dos de chocobo de relais	61534	11	1
+16	Absent(e)	61511	12	1
+17	Cherche un r\xc3\xa9parateur	61512	13	1
+18	Cherche \xc3\xa0 r\xc3\xa9parer	61513	14	1
+19	Sertisseur(se) de mat\xc3\xa9rias	61514	15	1
+20	Cherche une \xc3\xa9quipe	61515	16	1
+21	Mercenaire	61516	17	1
+22	Enregistr\xc3\xa9(e) dans l'outil de mission	61517	18	1
+23	Recrute des \xc3\xa9quipiers	61536	19	1
+24	Nouvel(le) aventurier(\xc3\xa8re)	61523	26	1
+25	Chef d'alliance	61518	20	1
+26	Chef d'\xc3\xa9quipe d'une alliance	61519	21	1
+27	Membre d'une alliance	61520	22	1
+28	Chef d'\xc3\xa9quipe	61521	23	1
+29	Membre d'une \xc3\xa9quipe	61522	24	1
+30	En mission (inter-Mondes)	61535	25	1
+31	En mission commune	61506	0	0
+32	En mission identique (autre groupe)	61507	0	0
+33	En mission	61510	10	1
+34	Aventurier \xc3\xa0 l'essai	61525	28	1
+35	Compagnie libre	0	0	0
+36	Grande compagnie	0	0	0
+37	En ligne	61505	27	1
